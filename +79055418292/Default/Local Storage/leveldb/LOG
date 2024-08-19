@@ -1,9 +1,0 @@
-2024/08/19-14:06:04.246 2948 Reusing MANIFEST C:\Users\Kenny\Desktop\new_bot_aiogram_external\+79055418292\Default\Local Storage\leveldb/MANIFEST-000001
-2024/08/19-14:06:04.252 2948 Recovering log #33
-2024/08/19-14:06:04.257 2948 Level-0 table #36: started
-2024/08/19-14:06:04.267 2948 Level-0 table #36: 112471 bytes OK
-2024/08/19-14:06:04.268 2948 Recovering log #35
-2024/08/19-14:06:04.272 2948 Reusing old log C:\Users\Kenny\Desktop\new_bot_aiogram_external\+79055418292\Default\Local Storage\leveldb/000035.log 
-2024/08/19-14:06:04.329 2948 Delete type=0 #33
-2024/08/19-14:07:00.355 15f8 Level-0 table #38: started
-2024/08/19-14:07:00.374 15f8 Level-0 table #38: 93149 bytes OK

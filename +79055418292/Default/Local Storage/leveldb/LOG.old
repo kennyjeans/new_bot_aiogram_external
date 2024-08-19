@@ -1,9 +1,0 @@
-2024/08/19-13:22:10.589 12dc Reusing MANIFEST C:\Users\Kenny\Desktop\new_bot_aiogram_external\+79055418292\Default\Local Storage\leveldb/MANIFEST-000001
-2024/08/19-13:22:10.593 12dc Recovering log #30
-2024/08/19-13:22:10.600 12dc Level-0 table #34: started
-2024/08/19-13:22:10.615 12dc Level-0 table #34: 93507 bytes OK
-2024/08/19-13:22:10.616 12dc Recovering log #33
-2024/08/19-13:22:10.619 12dc Reusing old log C:\Users\Kenny\Desktop\new_bot_aiogram_external\+79055418292\Default\Local Storage\leveldb/000033.log 
-2024/08/19-13:22:10.623 12dc Delete type=0 #30
-2024/08/19-13:22:45.560 12dc Level-0 table #36: started
-2024/08/19-13:22:45.601 12dc Level-0 table #36: 112471 bytes OK
