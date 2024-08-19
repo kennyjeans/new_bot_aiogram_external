@@ -133,7 +133,7 @@ def wp_data_collect():
             media_link,
             product_id,
             brand
-            ) VALUES %s ON CONFLICT (id) DO Update set 
+            ) VALUES %s ON CONFLICT (id) DO Update set
             created_date = EXCLUDED.created_date,
             name = EXCLUDED.name,
             price = EXCLUDED.price, 
@@ -143,6 +143,8 @@ def wp_data_collect():
             product_id = EXCLUDED.product_id,
             brand = EXCLUDED.brand;
             '''
+
+            ## добавил сверху update created_date name
             update_users_st = '''
             INSERT INTO auth_user (
             wp_email,
